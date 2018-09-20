@@ -1,9 +1,9 @@
 {
 "vision":"0.0.1",
 "webserver":"https://share.dmhy.org/topics/list?keyword=",
-"urllistmatchrule":"topics/view/(.+?)\.html",
-"magnetlistmatchrule":"magnet:\?xt=urn:btih:(.+?)\">magnet",
-"orgmatchrule":"\">(.+?)</option>",
+"urllistmatchrule":"topics/view/(.+?)\\\.html",
+"magnetlistmatchrule":"magnet:\\\?xt=urn:btih:(.+?)\\\">magnet",
+"orgmatchrule":"\\\">(.+?)</option>",
 "urllist":["https://share.dmhy.org/topics/view/",".html"],
 "orgList":["请选择字幕组", "動漫花園", "动漫国字幕组", "极影字幕社", "咪梦动漫组", "悠哈C9字幕社", "喵萌奶茶屋", "天使动漫论坛", "LoliHouse", "喵萌茶会字幕组", "雪飄工作室(FLsnow)", "DHR動研字幕組", "c.c动漫", "c-a Raws", "漫貓字幕組", "风之圣殿", "幻樱字幕组", "八重樱字幕组", "千夏字幕组", "诸神kamigami字幕组", "桜都字幕组", "漫游字幕组", "ANK-Raws", "LoveEcho!", "天行搬运", "時雨初空", "YMDR发布组", "西农YUI汉化组", "青森小镇", "风车字幕组", "ZERO字幕组", "动音漫影", "TUcaptions", "白恋字幕组", "豌豆字幕组", "波洛咖啡厅", "飞龙骑脸字幕组(G.I.A.N.T)", "澄空学园", "届恋字幕组", "爱恋字幕社", "轻之国度", "未央阁联盟", "枫叶字幕组", "楓雪連載製作", "幻之字幕组", "银色子弹字幕组", "东京不够热", "新番字幕组", "天空树双语字幕组", "追新番字幕组", "VRAINSTORM", "银光字幕组", "梦星字幕组", "WOLF字幕组", "聖域字幕組", "小愿8压制组", "魯邦聯會", "动漫先锋", "NEO·QSW", "AikatsuFans", "VCB-Studio", "BBA字幕组", "KRL字幕组", "小花花同盟戰線", "AQUA工作室", "梦蓝字幕组", "鈴風字幕組", "萝莉社活动室", "80v08", "LittleBakas!", "脸肿字幕组", "花園壓制組", "旋风字幕组", "漫藤字幕组", "省电Raws", "华盟字幕社", "柯南事务所", "天香字幕社", "虐心发布组", "冷番补完字幕组", "雪梦字幕组", "Little字幕组", "乐园字幕组", "Centaurea-Raws", "自由字幕组", "Astral Union字幕组", "魔星字幕团", "Vmoe字幕組", "NAZOrip", "狐狸小宮", "囧夏发布组", "虚数学区研究协会", "AZT字幕组", "CureSub", "钉铛字幕组", "SFEO-Raws", "EggPainRaws", "天空字幕组", "天の翼字幕汉化社", "紫音動漫&發佈組", "星火字幕组", "驯兽师联盟", "BlueRabbit", "夜莺工作室", "矢车菊影音工作室", "TenYun"]
 }
